@@ -1,0 +1,1 @@
+Sails are multiblock systems that create sheets of canvas that, when angled properly into the wind, produce forward thrust. There are two kinds of sail: [[Square Sails]] and [[Fore and Aft Sails]].

@@ -1,0 +1,19 @@
+{
+  "Name": "Galernia",
+  "Summary": "Galernia is the name currently being given to an in development world for an in development custom campaign",
+  "PlanetIdentifier": "4742b3e9-1d2a-43b9-8bb1-f3839125cf1f",
+  "VersionIdentifier": "7afb1d8e-a6c4-431a-bf3c-61e1ab7fdabb",
+  "FileModelVersion": {
+    "Major": 1,
+    "Minor": 0
+  },
+  "DefaultWorldPosition": "10037.72265625,0,10550.427734375",
+  "CampaignMainMenuPanelText": "###Neter_header.campaign_explanation#?!Embark on different campaigns in the world of Neter. Play the main Quest for Neter campaign and take on the world or try one of the faction quests to defeat their rival faction. It is encouraged that you play on easy if this is your first time playing. Once in Game press <color=cyan>F1</color> for diplomacy and objectives.",
+  "StoryMissionMainMenuPanelText": "###Neter_header.story_explanation#?!Action orientated missions where you update blueprints and operate them to carry out specific tasks. You are expected to know the basics of construction and vehicular control prior to taking on these missions.",
+  "DesignerMainMenuPanelText": "###Neter_header.designer_explanation#?!Enjoy all the freedom you need to build and experiment with different vehicles and fortresses. \n\nIn this mode you can save and load various designs which will also be available to you in the single player campaign and story missions.",
+  "AllowAdventures": false,
+  "AllowStories": false,
+  "SavesMustBeAtOrAboveThisVersion": "",
+  "SongHashTags": "",
+  "MainMenuSongHashTags": "#menu[100]"
+}

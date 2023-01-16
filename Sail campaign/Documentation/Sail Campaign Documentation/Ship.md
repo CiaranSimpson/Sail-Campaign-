@@ -1,0 +1,1 @@
+A Ship is a waterborne vehicle propelled by [[Sails]] and steered by a [[Rudder]]. 
