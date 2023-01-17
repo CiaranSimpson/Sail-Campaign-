@@ -1,0 +1,1 @@
+There are five factions in the campaign.
