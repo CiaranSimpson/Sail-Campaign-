@@ -116495,7 +116495,7 @@
         },
         "BrilliantSkies.PlayerProfiles.ApsSpeedFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.ApsSpeedFactorAttribute, PlayerProfiles",
-          "Value": 1.29,
+          "Value": 0.75,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,
@@ -116503,7 +116503,7 @@
         },
         "BrilliantSkies.PlayerProfiles.MissileThrustFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.MissileThrustFactorAttribute, PlayerProfiles",
-          "Value": 1.29,
+          "Value": 0.75,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,
@@ -116511,7 +116511,7 @@
         },
         "BrilliantSkies.PlayerProfiles.CramSpeedFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.CramSpeedFactorAttribute, PlayerProfiles",
-          "Value": 1.28,
+          "Value": 1.31,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,

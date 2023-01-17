@@ -116479,7 +116479,7 @@
         },
         "BrilliantSkies.PlayerProfiles.DamageFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.DamageFactorAttribute, PlayerProfiles",
-          "Value": 0.5,
+          "Value": 0.1,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,
@@ -116487,7 +116487,7 @@
         },
         "BrilliantSkies.PlayerProfiles.AutomaticDetectionAccuracyAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.AutomaticDetectionAccuracyAttribute, PlayerProfiles",
-          "Value": 0.1,
+          "Value": 0.13,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,
@@ -116495,7 +116495,7 @@
         },
         "BrilliantSkies.PlayerProfiles.ApsSpeedFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.ApsSpeedFactorAttribute, PlayerProfiles",
-          "Value": 0.75,
+          "Value": 0.96,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,
@@ -116503,7 +116503,7 @@
         },
         "BrilliantSkies.PlayerProfiles.MissileThrustFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.MissileThrustFactorAttribute, PlayerProfiles",
-          "Value": 0.75,
+          "Value": 0.97,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,
@@ -116511,7 +116511,7 @@
         },
         "BrilliantSkies.PlayerProfiles.CramSpeedFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "BrilliantSkies.PlayerProfiles.CramSpeedFactorAttribute, PlayerProfiles",
-          "Value": 1.31,
+          "Value": 0.91,
           "AllowModification": true,
           "Modified": true,
           "BlockModification": false,
