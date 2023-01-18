@@ -4481,6 +4481,548 @@
       "DiplomacyTablePosition": 0.5,
       "SongHashTags": "",
       "DifficultyWeighting": 1.0
+    },
+    {
+      "Name": "Pirates",
+      "Description": "",
+      "AbreviatedName": "NEW",
+      "Color": "1,1,1,1",
+      "ContrastingColor": "0,0,0,1",
+      "FleetColors": [
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99"
+      ],
+      "StoryMissionArcDescription": "",
+      "Id": {
+        "Id": 1978171071
+      },
+      "Designs": {
+        "Id": {
+          "Id": 1978171071
+        },
+        "Designs": []
+      },
+      "SpecialFleets": {
+        "Id": {
+          "Id": 1978171071
+        },
+        "SpecialFleets": []
+      },
+      "Corporations": {
+        "Id": {
+          "Id": 1978171071
+        },
+        "Corporations": []
+      },
+      "GenericFleets": {
+        "Id": {
+          "Id": 1978171071
+        },
+        "GenericFleets": [
+          {
+            "Id": {
+              "FactionId": {
+                "Id": 1978171071
+              },
+              "ObjectId": {
+                "Id": 625229246
+              }
+            },
+            "RelativeProbabilityOfSpawning": 1.0,
+            "Name": "All Designs (Default)",
+            "Description": "Every design by default is subscribed into this category. You can make this category less likely to spawn, unsubscribe designs from this category or delete this category all together (deleting this category is a pretty drastic action)",
+            "NameGenerationStrings": [
+              "{0} Exploration team",
+              "The {0} Army",
+              "{0} Air wing",
+              "{0} Airborne",
+              "{0} Merchantile Navy",
+              "The {0} Defence Force"
+            ],
+            "SeenAfter_Hours": 0.0,
+            "SeenBefore_Hours": 1000.0,
+            "MinimumFleetStrength": 0.0,
+            "MaximumFleetStrength": 1000.0,
+            "Difficulty": 2
+          }
+        ]
+      },
+      "Art": {
+        "eSource": 0,
+        "BuiltInIndex": 0,
+        "WebSourceLarge": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg",
+        "WebSourceSmall": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg"
+      },
+      "DiplomacyPortrait": "#DWG_DT",
+      "DiplomacyTablePosition": 0.5,
+      "SongHashTags": "",
+      "DifficultyWeighting": 1.0
+    },
+    {
+      "Name": "Barbary Corsairs",
+      "Description": "",
+      "AbreviatedName": "NEW",
+      "Color": "1,1,1,1",
+      "ContrastingColor": "0,0,0,1",
+      "FleetColors": [
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99"
+      ],
+      "StoryMissionArcDescription": "",
+      "Id": {
+        "Id": 1304034446
+      },
+      "Designs": {
+        "Id": {
+          "Id": 1304034446
+        },
+        "Designs": []
+      },
+      "SpecialFleets": {
+        "Id": {
+          "Id": 1304034446
+        },
+        "SpecialFleets": []
+      },
+      "Corporations": {
+        "Id": {
+          "Id": 1304034446
+        },
+        "Corporations": []
+      },
+      "GenericFleets": {
+        "Id": {
+          "Id": 1304034446
+        },
+        "GenericFleets": [
+          {
+            "Id": {
+              "FactionId": {
+                "Id": 1304034446
+              },
+              "ObjectId": {
+                "Id": 1860598103
+              }
+            },
+            "RelativeProbabilityOfSpawning": 1.0,
+            "Name": "All Designs (Default)",
+            "Description": "Every design by default is subscribed into this category. You can make this category less likely to spawn, unsubscribe designs from this category or delete this category all together (deleting this category is a pretty drastic action)",
+            "NameGenerationStrings": [
+              "{0} Exploration team",
+              "The {0} Army",
+              "{0} Air wing",
+              "{0} Airborne",
+              "{0} Merchantile Navy",
+              "The {0} Defence Force"
+            ],
+            "SeenAfter_Hours": 0.0,
+            "SeenBefore_Hours": 1000.0,
+            "MinimumFleetStrength": 0.0,
+            "MaximumFleetStrength": 1000.0,
+            "Difficulty": 2
+          }
+        ]
+      },
+      "Art": {
+        "eSource": 0,
+        "BuiltInIndex": 0,
+        "WebSourceLarge": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg",
+        "WebSourceSmall": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg"
+      },
+      "DiplomacyPortrait": "#DWG_DT",
+      "DiplomacyTablePosition": 0.5,
+      "SongHashTags": "",
+      "DifficultyWeighting": 1.0
+    },
+    {
+      "Name": "Pan asians",
+      "Description": "",
+      "AbreviatedName": "NEW",
+      "Color": "1,1,1,1",
+      "ContrastingColor": "0,0,0,1",
+      "FleetColors": [
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99"
+      ],
+      "StoryMissionArcDescription": "",
+      "Id": {
+        "Id": 472709267
+      },
+      "Designs": {
+        "Id": {
+          "Id": 472709267
+        },
+        "Designs": []
+      },
+      "SpecialFleets": {
+        "Id": {
+          "Id": 472709267
+        },
+        "SpecialFleets": []
+      },
+      "Corporations": {
+        "Id": {
+          "Id": 472709267
+        },
+        "Corporations": []
+      },
+      "GenericFleets": {
+        "Id": {
+          "Id": 472709267
+        },
+        "GenericFleets": [
+          {
+            "Id": {
+              "FactionId": {
+                "Id": 472709267
+              },
+              "ObjectId": {
+                "Id": 219307913
+              }
+            },
+            "RelativeProbabilityOfSpawning": 1.0,
+            "Name": "All Designs (Default)",
+            "Description": "Every design by default is subscribed into this category. You can make this category less likely to spawn, unsubscribe designs from this category or delete this category all together (deleting this category is a pretty drastic action)",
+            "NameGenerationStrings": [
+              "{0} Exploration team",
+              "The {0} Army",
+              "{0} Air wing",
+              "{0} Airborne",
+              "{0} Merchantile Navy",
+              "The {0} Defence Force"
+            ],
+            "SeenAfter_Hours": 0.0,
+            "SeenBefore_Hours": 1000.0,
+            "MinimumFleetStrength": 0.0,
+            "MaximumFleetStrength": 1000.0,
+            "Difficulty": 2
+          }
+        ]
+      },
+      "Art": {
+        "eSource": 0,
+        "BuiltInIndex": 0,
+        "WebSourceLarge": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg",
+        "WebSourceSmall": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg"
+      },
+      "DiplomacyPortrait": "#DWG_DT",
+      "DiplomacyTablePosition": 0.5,
+      "SongHashTags": "",
+      "DifficultyWeighting": 1.0
+    },
+    {
+      "Name": "1830's",
+      "Description": "",
+      "AbreviatedName": "NEW",
+      "Color": "1,1,1,1",
+      "ContrastingColor": "0,0,0,1",
+      "FleetColors": [
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99"
+      ],
+      "StoryMissionArcDescription": "",
+      "Id": {
+        "Id": 1368271275
+      },
+      "Designs": {
+        "Id": {
+          "Id": 1368271275
+        },
+        "Designs": []
+      },
+      "SpecialFleets": {
+        "Id": {
+          "Id": 1368271275
+        },
+        "SpecialFleets": []
+      },
+      "Corporations": {
+        "Id": {
+          "Id": 1368271275
+        },
+        "Corporations": []
+      },
+      "GenericFleets": {
+        "Id": {
+          "Id": 1368271275
+        },
+        "GenericFleets": [
+          {
+            "Id": {
+              "FactionId": {
+                "Id": 1368271275
+              },
+              "ObjectId": {
+                "Id": 798148253
+              }
+            },
+            "RelativeProbabilityOfSpawning": 1.0,
+            "Name": "All Designs (Default)",
+            "Description": "Every design by default is subscribed into this category. You can make this category less likely to spawn, unsubscribe designs from this category or delete this category all together (deleting this category is a pretty drastic action)",
+            "NameGenerationStrings": [
+              "{0} Exploration team",
+              "The {0} Army",
+              "{0} Air wing",
+              "{0} Airborne",
+              "{0} Merchantile Navy",
+              "The {0} Defence Force"
+            ],
+            "SeenAfter_Hours": 0.0,
+            "SeenBefore_Hours": 1000.0,
+            "MinimumFleetStrength": 0.0,
+            "MaximumFleetStrength": 1000.0,
+            "Difficulty": 2
+          }
+        ]
+      },
+      "Art": {
+        "eSource": 0,
+        "BuiltInIndex": 0,
+        "WebSourceLarge": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg",
+        "WebSourceSmall": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg"
+      },
+      "DiplomacyPortrait": "#DWG_DT",
+      "DiplomacyTablePosition": 0.5,
+      "SongHashTags": "",
+      "DifficultyWeighting": 1.0
+    },
+    {
+      "Name": "Royal Navy",
+      "Description": "",
+      "AbreviatedName": "NEW",
+      "Color": "1,1,1,1",
+      "ContrastingColor": "0,0,0,1",
+      "FleetColors": [
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99",
+        "1,1,1,0.99"
+      ],
+      "StoryMissionArcDescription": "",
+      "Id": {
+        "Id": 1990063026
+      },
+      "Designs": {
+        "Id": {
+          "Id": 1990063026
+        },
+        "Designs": [
+          {
+            "CampaignObjectives": 511,
+            "Id": {
+              "FactionId": {
+                "Id": 1990063026
+              },
+              "ObjectId": {
+                "Id": 731167502
+              }
+            },
+            "FileSource": 1,
+            "Filename": "Sail Campaign/RN/Cruizer",
+            "ExternalSourceIdentifier": "",
+            "FileFound": 1,
+            "FileFoundExternal": 0,
+            "Visibility": 0,
+            "MainMenuSpawnOptions": 0,
+            "CampaignSpawnOptions": 1,
+            "GenericFleetSubscriptions": [],
+            "Name": "Cruizer",
+            "Description": "",
+            "MaximumConcurrentInstances": -1,
+            "CorporationID": {
+              "FactionId": {
+                "Id": -1
+              },
+              "ObjectId": {
+                "Id": -1
+              }
+            },
+            "ConstructableType": 1,
+            "BattlePoints": 5,
+            "SeenAfter_Hours": 0.0,
+            "SeenBefore_Hours": 10000.0,
+            "RelativeChanceOfSpawn": 1.0,
+            "MinimumDimensions": {
+              "x": -7,
+              "y": -5,
+              "z": -43
+            },
+            "MaximumDimensions": {
+              "x": 7,
+              "y": 5,
+              "z": 4
+            },
+            "CSI": [
+              0.0,
+              0.0,
+              -1.0,
+              0.0,
+              -1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              12.375,
+              1.0,
+              1.0,
+              0.0,
+              1.0,
+              16.219320297241211,
+              2.1693065166473389,
+              -1.0,
+              0.0,
+              5500.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              713.755859375,
+              0.0,
+              0.1,
+              0.1,
+              1.0,
+              1.0,
+              3.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              7.515498161315918,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              -1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              2765.8798828125,
+              132.0,
+              -1.0,
+              0.0,
+              0.0,
+              500.0,
+              -1.0,
+              12.0,
+              0.0,
+              0.0,
+              0.0,
+              102.17801666259766,
+              0.0,
+              12.375,
+              0.0,
+              0.0,
+              0.18214982748031616,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              -1.0,
+              -1.0,
+              -1.0,
+              -1.0
+            ],
+            "TypeTags": "Tier3,Brig",
+            "BlueprintType": 2,
+            "SpawnBroadsideAngle": 0.0,
+            "eSpawnDelegate": 0,
+            "SpawnFirstArg": 0.0,
+            "SpawnSecondArg": 0.0,
+            "SpawnThirdArg": 0.0,
+            "FirepowerPlusMinus": 0.0,
+            "FirepowerMultiplier": 1.0,
+            "VsAirFactor": 1.0,
+            "VsGroundFactor": 1.0,
+            "VsUnderseaFactor": 0.0,
+            "PatrolFactor": 1.0,
+            "SongHashTags": "",
+            "Difficulty": 0,
+            "ResourceCost": {
+              "Material": 15098.1191
+            },
+            "AdventureModeDifficultyMean": 50.0,
+            "AdventureModeDifficultySigma": 10.0,
+            "AdventureModeChance": 1.0,
+            "ChecksumOfFile": "513c8a618e145534241fa133dd1b9cdb",
+            "DesiredEngagementRange": 1000.0
+          }
+        ]
+      },
+      "SpecialFleets": {
+        "Id": {
+          "Id": 1990063026
+        },
+        "SpecialFleets": []
+      },
+      "Corporations": {
+        "Id": {
+          "Id": 1990063026
+        },
+        "Corporations": []
+      },
+      "GenericFleets": {
+        "Id": {
+          "Id": 1990063026
+        },
+        "GenericFleets": [
+          {
+            "Id": {
+              "FactionId": {
+                "Id": 1990063026
+              },
+              "ObjectId": {
+                "Id": 1985576047
+              }
+            },
+            "RelativeProbabilityOfSpawning": 1.0,
+            "Name": "All Designs (Default)",
+            "Description": "Every design by default is subscribed into this category. You can make this category less likely to spawn, unsubscribe designs from this category or delete this category all together (deleting this category is a pretty drastic action)",
+            "NameGenerationStrings": [
+              "{0} Exploration team",
+              "The {0} Army",
+              "{0} Air wing",
+              "{0} Airborne",
+              "{0} Merchantile Navy",
+              "The {0} Defence Force"
+            ],
+            "SeenAfter_Hours": 0.0,
+            "SeenBefore_Hours": 1000.0,
+            "MinimumFleetStrength": 0.0,
+            "MaximumFleetStrength": 1000.0,
+            "Difficulty": 2
+          }
+        ]
+      },
+      "Art": {
+        "eSource": 0,
+        "BuiltInIndex": 0,
+        "WebSourceLarge": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg",
+        "WebSourceSmall": "http://fromthedepthsgame.com/wp-content/uploads/2014/09/abyssal-krac.jpg"
+      },
+      "DiplomacyPortrait": "#DWG_DT",
+      "DiplomacyTablePosition": 0.5,
+      "SongHashTags": "",
+      "DifficultyWeighting": 1.0
     }
   ]
 }

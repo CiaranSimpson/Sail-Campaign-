@@ -1,0 +1,2 @@
+The Cruizer is a [[Tier 3]] 22 gun brig belonging to the [[Royal Navy]] faction ![[Pasted image 20230117235302.png]]
+It is armed with 22 64 pdr [[Guns]] along a single deck, two of them being angled chasers. She is quite fast but suffers from poor stability at high speeds.

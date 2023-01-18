@@ -3404,27 +3404,367 @@
             },
             "VolumeAllowance": "Infinity",
             "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1978171071
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1978171071
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1978171071
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1304034446
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1304034446
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1304034446
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 472709267
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 472709267
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 472709267
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1368271275
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1368271275
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1368271275
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1990063026
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1990063026
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1990063026
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
           }
         ],
         "Relationships": {
           "R": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RBuildUp": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RInfluence": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "FactionIds": [
             {
               "Id": 783346167
+            },
+            {
+              "Id": 1978171071
+            },
+            {
+              "Id": 1304034446
+            },
+            {
+              "Id": 472709267
+            },
+            {
+              "Id": 1368271275
+            },
+            {
+              "Id": 1990063026
             }
           ]
         },
@@ -6941,27 +7281,367 @@
             },
             "VolumeAllowance": "Infinity",
             "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1978171071
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1978171071
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1978171071
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1304034446
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1304034446
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1304034446
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 472709267
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 472709267
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 472709267
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1368271275
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1368271275
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1368271275
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1990063026
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1990063026
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1990063026
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
           }
         ],
         "Relationships": {
           "R": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RBuildUp": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RInfluence": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "FactionIds": [
             {
               "Id": 783346167
+            },
+            {
+              "Id": 1978171071
+            },
+            {
+              "Id": 1304034446
+            },
+            {
+              "Id": 472709267
+            },
+            {
+              "Id": 1368271275
+            },
+            {
+              "Id": 1990063026
             }
           ]
         },
@@ -10292,27 +10972,367 @@
             },
             "VolumeAllowance": "Infinity",
             "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1978171071
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1978171071
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1978171071
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1304034446
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1304034446
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1304034446
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 472709267
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 472709267
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 472709267
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1368271275
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1368271275
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1368271275
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1990063026
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1990063026
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1990063026
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
           }
         ],
         "Relationships": {
           "R": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RBuildUp": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RInfluence": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "FactionIds": [
             {
               "Id": 783346167
+            },
+            {
+              "Id": 1978171071
+            },
+            {
+              "Id": 1304034446
+            },
+            {
+              "Id": 472709267
+            },
+            {
+              "Id": 1368271275
+            },
+            {
+              "Id": 1990063026
             }
           ]
         },
@@ -13854,27 +14874,367 @@
             },
             "VolumeAllowance": "Infinity",
             "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1978171071
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1978171071
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1978171071
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1304034446
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1304034446
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1304034446
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 472709267
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 472709267
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 472709267
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1368271275
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1368271275
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1368271275
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1990063026
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1990063026
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1990063026
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
           }
         ],
         "Relationships": {
           "R": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RBuildUp": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RInfluence": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "FactionIds": [
             {
               "Id": 783346167
+            },
+            {
+              "Id": 1978171071
+            },
+            {
+              "Id": 1304034446
+            },
+            {
+              "Id": 472709267
+            },
+            {
+              "Id": 1368271275
+            },
+            {
+              "Id": 1990063026
             }
           ]
         },
@@ -17205,27 +18565,367 @@
             },
             "VolumeAllowance": "Infinity",
             "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1978171071
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1978171071
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1978171071
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1304034446
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1304034446
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1304034446
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 472709267
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 472709267
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 472709267
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1368271275
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1368271275
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1368271275
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
+          },
+          {
+            "Id": {
+              "Id": 1990063026
+            },
+            "Players": {
+              "SpawnPoints": [],
+              "PersistentPlayerInfo": []
+            },
+            "Fleets": {
+              "Id": {
+                "Id": 1990063026
+              },
+              "Fleets": []
+            },
+            "ResourceStore": {
+              "IsCommodityStore": true,
+              "Material": {
+                "Type": 10,
+                "Quantity": 1000.0,
+                "Maximum": "Infinity",
+                "Fraction": 0.0,
+                "HeadRoom": "Infinity"
+              },
+              "TeamId": {
+                "Id": 1990063026
+              }
+            },
+            "eController": 1,
+            "Role": 0,
+            "AllowableOverrides": 1,
+            "DeleteIfNoHq": 0,
+            "RPFactor": 1.0,
+            "Favourites": {
+              "Favourites": []
+            },
+            "VolumeAllowance": "Infinity",
+            "PeakTerritorySize": 0.0
           }
         ],
         "Relationships": {
           "R": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RBuildUp": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "RInfluence": [
             [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
               0.0
             ]
           ],
           "FactionIds": [
             {
               "Id": 783346167
+            },
+            {
+              "Id": 1978171071
+            },
+            {
+              "Id": 1304034446
+            },
+            {
+              "Id": 472709267
+            },
+            {
+              "Id": 1368271275
+            },
+            {
+              "Id": 1990063026
             }
           ]
         },
